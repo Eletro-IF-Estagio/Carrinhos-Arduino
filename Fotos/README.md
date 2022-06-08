@@ -1,6 +1,5 @@
-# Fotos da documentação
+## Fotos da documentação
 
-## Início do projeto
 ### PCB crua
 ![PCB](./placascruas.jpg)
 
