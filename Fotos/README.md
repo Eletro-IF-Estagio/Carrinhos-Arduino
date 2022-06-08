@@ -2,7 +2,7 @@
 
 ## Início do projeto
 ### PCB crua
-![PCB](./placas cruas.jpg)
+![PCB](./placascruas.jpg)
 
 ### Ponte H
 ![Bridge](./ponteh.jpg)
